@@ -1,5 +1,7 @@
 # Face Mask Detector.
 
+UNDER CONSTRUCTION
+
 I build this project in Python using machine learning. The purpose of this project is to predict if a person is wearing a facemask or not. The script uses ones build-in webcam, which will open up automatically, when the model is trained. You will be able to take a picture of yourself or another person, where the machine will predict if the person on the image is wearing a facemask or not. This prediction is not limited for COVID-mask, but generel facemask and can also detect on multiple faces on the image. Due to the size of this project I only uploaded the script and readme file, but there is a detailed description about how to setup the project, import the dataset and run this program below. One should carefully follow all the steps to ensure proper execution. 
 
 ## Steps to Setup
@@ -25,15 +27,21 @@ Go to kaggle and download this dataset: https://www.kaggle.com/datasets/wobotint
 **4. Setup the project**
 
 ```bash
-Go to kaggle and download this dataset: https://www.kaggle.com/datasets/wobotintelligence/face-mask-detection-dataset
+- Go to kaggle and download this dataset: https://www.kaggle.com/datasets/wobotintelligence/face-mask-detection-dataset
 (You might need to sign in using your google account or similar)
+- Create a folder named "data" in the root of your project
+- Copy the dataset from kaggle into your data folder
+- 
+
 ```
 
 **5. Import libraries**
 
 ```bash
-Go to kaggle and download this dataset: https://www.kaggle.com/datasets/wobotintelligence/face-mask-detection-dataset
-(You might need to sign in using your google account or similar)
+Some packages needs to be installed using your ide terminal.
+In your ide terminal write:
+pip install tensorflow-macos
+
 ```
 
 **6. Run the project**
