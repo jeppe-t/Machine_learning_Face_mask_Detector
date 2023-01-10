@@ -29,14 +29,14 @@ Go to kaggle and download this dataset: https://www.kaggle.com/datasets/wobotint
 (You might need to sign in using your google account or similar)
 ```
 
-**4. Import libraries**
+**5. Import libraries**
 
 ```bash
 Go to kaggle and download this dataset: https://www.kaggle.com/datasets/wobotintelligence/face-mask-detection-dataset
 (You might need to sign in using your google account or similar)
 ```
 
-**5. Run the project**
+**6. Run the project**
 
 ```bash
 Go to kaggle and download this dataset: https://www.kaggle.com/datasets/wobotintelligence/face-mask-detection-dataset
@@ -50,6 +50,10 @@ Capture an image of a person with or without a mask.
 Presse "q" to capture the image.
 
 The camera will close down shortly after and the model will make a prediction.
+
+## Contact
+
+Hit me up on LinkedIn (Link avaiable in my profile section).  
   
 ## Contributors
 
