@@ -2,8 +2,11 @@
 
 I build this project in Python using machine learning.<br /><br /> 
 The purpose of this project is to predict if a person is wearing a facemask or not. The script uses ones build-in webcam, which will open up automatically, when the model is trained. You will be able to take a picture of yourself or another person, where the machine will predict if the person on the captured image is wearing a facemask or not. This prediction is not limited for COVID-masks, but generel facemasks and can also detect on multiple faces appearing on the image. Due to the size of this project I only uploaded the script and readme file, but there is a detailed description below about how to setup the project, import the dataset and run the program. One should carefully follow all the steps to ensure proper execution.<br /> <br /> 
-I included comments for the most important lines of code in the script for you - explaining the code.<br /> <br /> 
-Enjoy and lets connect!<br /><br />
+I included comments for the most important lines of code in the script for you - explaining the code.<br />  
+
+Feedback and good vibes are allways welcome😎<br />
+
+Enjoy and lets connect!<br />
 
 # About.
 
