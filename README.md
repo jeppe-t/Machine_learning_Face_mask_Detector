@@ -45,9 +45,11 @@ Go to kaggle and download this dataset: https://www.kaggle.com/datasets/wobotint
 - Create a folder named "test_image_camera" in the root of your project
 - Copy the dataset from kaggle into your data folder
 - 
-<img width="1430" alt="folder structure  step" src="https://user-images.githubusercontent.com/82437282/211767078-340d60e3-bf6b-4b41-b3bd-b7cdb93c432c.png">
-
 ```
+
+<img width="600" alt="folder structure  step" src="[https://user-images.githubusercontent.com/82437282/211767078-340d60e3-bf6b-4b41-b3bd-b7cdb93c432c.png](https://user-images.githubusercontent.com/82437282/211778254-6b6ee415-070d-4ca4-869e-7c3abcee6022.png)">
+
+
 
 **5. Import libraries**
 
