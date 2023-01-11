@@ -1,10 +1,10 @@
 # Face Mask Detector.
 
-I build this project in Python using machine learning. The purpose of this project is to predict if a person is wearing a facemask or not. The script uses ones build-in webcam, which will open up automatically, when the model is trained. You will be able to take a picture of yourself or another person, where the machine will predict if the person on the captured image is wearing a facemask or not. This prediction is not limited for COVID-masks, but generel facemask and can also detect on multiple faces on the image. Due to the size of this project I only uploaded the script and readme file, but there is a detailed description below about how to setup the project, import the dataset and run the program. One should carefully follow all the steps to ensure proper execution. 
+I build this project in Python using machine learning.<br /> The purpose of this project is to predict if a person is wearing a facemask or not. The script uses ones build-in webcam, which will open up automatically, when the model is trained. You will be able to take a picture of yourself or another person, where the machine will predict if the person on the captured image is wearing a facemask or not. This prediction is not limited for COVID-masks, but generel facemask and can also detect on multiple faces on the image. Due to the size of this project I only uploaded the script and readme file, but there is a detailed description below about how to setup the project, import the dataset and run the program. One should carefully follow all the steps to ensure proper execution.<br />  
 
-Running this project works best if we train the model around 50 time, but you can play around with this. If ypu want to change this, search the script for epochs and set another interval. Ypu
+Running this project works best if we train the model around 50 time, but you can play around with this. If ypu want to change this, search the script for epochs and set another interval.<br /> 
 
-I included comments for the most important lines of code in the script for you - explaining the code.
+I included comments for the most important lines of code in the script for you - explaining the code.<br /> 
 
 Enjoy!
 
@@ -45,8 +45,7 @@ Go to kaggle and download this dataset: https://www.kaggle.com/datasets/wobotint
 - Create a folder named "test_image_camera" in the root of your project
 - Copy the dataset from kaggle into your data folder
 - 
-
-![Folder structure](https://user-images.githubusercontent.com/82437282/211767078-340d60e3-bf6b-4b41-b3bd-b7cdb93c432c.png)
+<img width="1430" alt="folder structure  step" src="https://user-images.githubusercontent.com/82437282/211767078-340d60e3-bf6b-4b41-b3bd-b7cdb93c432c.png">
 
 ```
 
